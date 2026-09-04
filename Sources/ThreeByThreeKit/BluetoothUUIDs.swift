@@ -32,6 +32,10 @@ public enum BluetoothUUIDs {
         public static let responseFD = "7F6D0012-B996-5845-90F3-0796DCD321D8"
         public static let response = "7F6D0013-B996-5845-90F3-0796DCD321D8"
     }
+
+    public enum NordicDFUCharacteristic {
+        public static let buttonless = "8EC90003-F315-4F60-9FB8-838830DAEA50"
+    }
 }
 
 public enum SupportedAdvertisement {
