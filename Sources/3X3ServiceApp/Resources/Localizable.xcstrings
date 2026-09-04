@@ -1,0 +1,966 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld nearby" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld in der Nähe"
+          }
+        }
+      }
+    },
+    "2nd gear rotated. A calibration ride is now required." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der 2. Gang wurde gedreht. Eine Kalibrierungsfahrt ist jetzt erforderlich."
+          }
+        }
+      }
+    },
+    "3X3 Service" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3X3 Service"
+          }
+        }
+      }
+    },
+    "Abort" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        }
+      }
+    },
+    "Actuator auto-calibration in progress. Shifting through every gear." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die automatische Kalibrierung des Aktuators läuft. Alle Gänge werden durchgeschaltet."
+          }
+        }
+      }
+    },
+    "Authenticating and reading its pairing address" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Authentifizierung und Kopplungsadresse werden gelesen"
+          }
+        }
+      }
+    },
+    "Auto-Calibration" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatische Kalibrierung"
+          }
+        }
+      }
+    },
+    "Auto-Calibration Finished" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatische Kalibrierung abgeschlossen"
+          }
+        }
+      }
+    },
+    "Auto-Calibration in Progress" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatische Kalibrierung läuft"
+          }
+        }
+      }
+    },
+    "Auto-Calibrating" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatische Kalibrierung"
+          }
+        }
+      }
+    },
+    "Auto-calibration completed. Verify every gear before riding." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatische Kalibrierung abgeschlossen. Prüfe vor der Fahrt jeden Gang."
+          }
+        }
+      }
+    },
+    "Auto-calibration cycle finished. Verify every gear before riding." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatischer Kalibrierungszyklus beendet. Prüfe vor der Fahrt jeden Gang."
+          }
+        }
+      }
+    },
+    "Auto-calibration is unavailable for this Actuator model." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die automatische Kalibrierung ist für dieses Aktuatormodell nicht verfügbar."
+          }
+        }
+      }
+    },
+    "Auto-calibration shifts through every gear to synchronize the hub and Actuator for smooth shifting. It is essential after the hub and Actuator have been separated. The process takes %@." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die automatische Kalibrierung schaltet durch alle Gänge, um Nabe und Aktuator für reibungslose Schaltvorgänge zu synchronisieren. Sie ist erforderlich, nachdem Nabe und Aktuator voneinander getrennt wurden. Der Vorgang dauert %@."
+          }
+        }
+      }
+    },
+    "AutoDownShift" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AutoDownShift"
+          }
+        }
+      }
+    },
+    "AutoDownShift gear" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AutoDownShift-Gang"
+          }
+        }
+      }
+    },
+    "Battery" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batterie"
+          }
+        }
+      }
+    },
+    "Bluetooth name" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth-Name"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        }
+      }
+    },
+    "Connecting" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbinden"
+          }
+        }
+      }
+    },
+    "Connecting to %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbindung mit %@ wird hergestellt"
+          }
+        }
+      }
+    },
+    "Current gear" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktueller Gang"
+          }
+        }
+      }
+    },
+    "Custom name" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzerdefinierter Name"
+          }
+        }
+      }
+    },
+    "Device" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerät"
+          }
+        }
+      }
+    },
+    "Discovering services and characteristics" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dienste und Merkmale werden ermittelt"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fertig"
+          }
+        }
+      }
+    },
+    "E.TR.ADJ (Latest)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E.TR.ADJ (Aktuell)"
+          }
+        }
+      }
+    },
+    "E.TR.ADJ (Outdated)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E.TR.ADJ (Veraltet)"
+          }
+        }
+      }
+    },
+    "E.TR.CMD (Latest)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E.TR.CMD (Aktuell)"
+          }
+        }
+      }
+    },
+    "E.TR.CMD (Outdated)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E.TR.CMD (Veraltet)"
+          }
+        }
+      }
+    },
+    "E9.XP (Latest)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E9.XP (Aktuell)"
+          }
+        }
+      }
+    },
+    "E9.XP (Outdated)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E9.XP (Veraltet)"
+          }
+        }
+      }
+    },
+    "GATT characteristics" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GATT-Merkmale"
+          }
+        }
+      }
+    },
+    "GEAR" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GANG"
+          }
+        }
+      }
+    },
+    "Hold function button for 10 seconds to connect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halte die Funktionstaste 10 Sekunden lang gedrückt, um eine Verbindung herzustellen"
+          }
+        }
+      }
+    },
+    "Keeping the Actuator connected" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbindung zum Aktuator wird aufrechterhalten"
+          }
+        }
+      }
+    },
+    "Level" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ladezustand"
+          }
+        }
+      }
+    },
+    "Low battery" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niedriger Batteriestand"
+          }
+        }
+      }
+    },
+    "Make sure the rear wheel is mounted and lifted clear of the ground. Do not load or turn the pedals. Keep hands, clothing, and tools away from the drivetrain." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stelle sicher, dass das Hinterrad montiert ist und frei über dem Boden schwebt. Belaste oder drehe die Pedale nicht. Halte Hände, Kleidung und Werkzeuge vom Antriebsstrang fern."
+          }
+        }
+      }
+    },
+    "Model number" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modellnummer"
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "Nearby triggers" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trigger in der Nähe"
+          }
+        }
+      }
+    },
+    "None" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine"
+          }
+        }
+      }
+    },
+    "Not connectable" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Verbindung möglich"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Operation failed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorgang fehlgeschlagen"
+          }
+        }
+      }
+    },
+    "Pair Trigger" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trigger koppeln"
+          }
+        }
+      }
+    },
+    "Pair trigger…" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trigger koppeln…"
+          }
+        }
+      }
+    },
+    "Paired trigger" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gekoppelter Trigger"
+          }
+        }
+      }
+    },
+    "Pairing" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopplung"
+          }
+        }
+      }
+    },
+    "Pairing %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ wird gekoppelt"
+          }
+        }
+      }
+    },
+    "Pairing address" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopplungsadresse"
+          }
+        }
+      }
+    },
+    "Position" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Position"
+          }
+        }
+      }
+    },
+    "Reading %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ wird gelesen"
+          }
+        }
+      }
+    },
+    "Remove custom name" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzerdefinierten Namen entfernen"
+          }
+        }
+      }
+    },
+    "Rename device" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerät umbenennen"
+          }
+        }
+      }
+    },
+    "Retry" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erneut versuchen"
+          }
+        }
+      }
+    },
+    "ROTATE" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DREHEN"
+          }
+        }
+      }
+    },
+    "Rotate 2nd gear" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Gang drehen"
+          }
+        }
+      }
+    },
+    "Rotate clockwise" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Uhrzeigersinn drehen"
+          }
+        }
+      }
+    },
+    "Rotate counterclockwise" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gegen den Uhrzeigersinn drehen"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sichern"
+          }
+        }
+      }
+    },
+    "Scan again" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erneut suchen"
+          }
+        }
+      }
+    },
+    "Scanning for devices" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suche nach Geräten"
+          }
+        }
+      }
+    },
+    "Second-gear rotation is unavailable for this Actuator." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Drehen des 2. Gangs ist für diesen Aktuator nicht verfügbar."
+          }
+        }
+      }
+    },
+    "Select a Trigger to pair." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wähle einen Trigger zum Koppeln aus."
+          }
+        }
+      }
+    },
+    "Serial number" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seriennummer"
+          }
+        }
+      }
+    },
+    "Service %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dienst %@"
+          }
+        }
+      }
+    },
+    "Share connection diagnostics" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbindungsdiagnose teilen"
+          }
+        }
+      }
+    },
+    "Shift down" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herunterschalten"
+          }
+        }
+      }
+    },
+    "Shift up" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hochschalten"
+          }
+        }
+      }
+    },
+    "Shifting" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schalten"
+          }
+        }
+      }
+    },
+    "Signal strength" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signalstärke"
+          }
+        }
+      }
+    },
+    "Software version" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Softwareversion"
+          }
+        }
+      }
+    },
+    "Software version %@ is available" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Softwareversion %@ ist verfügbar"
+          }
+        }
+      }
+    },
+    "Start" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starten"
+          }
+        }
+      }
+    },
+    "Start Auto-Calibration?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatische Kalibrierung starten?"
+          }
+        }
+      }
+    },
+    "Start Auto-Calibration" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatische Kalibrierung starten"
+          }
+        }
+      }
+    },
+    "The Actuator did not confirm the Trigger pairing. Keep both devices close and try again." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Aktuator hat die Kopplung des Triggers nicht bestätigt. Halte beide Geräte nah beieinander und versuche es erneut."
+          }
+        }
+      }
+    },
+    "The Actuator is shifting through every gear. Please wait for the process to finish." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Aktuator schaltet durch alle Gänge. Bitte warte, bis der Vorgang abgeschlossen ist."
+          }
+        }
+      }
+    },
+    "The Actuator pairing connection is no longer available." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Kopplungsverbindung zum Aktuator ist nicht mehr verfügbar."
+          }
+        }
+      }
+    },
+    "The Actuator reported %@ after pairing instead of %@." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Aktuator meldete nach der Kopplung %@ anstelle von %@."
+          }
+        }
+      }
+    },
+    "The selected Bluetooth device is not a Trigger." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das ausgewählte Bluetooth-Gerät ist kein Trigger."
+          }
+        }
+      }
+    },
+    "The Trigger is not exposing its pairing authentication service. Put it in pairing mode and try again." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Trigger stellt seinen Authentifizierungsdienst für die Kopplung nicht bereit. Versetze ihn in den Kopplungsmodus und versuche es erneut."
+          }
+        }
+      }
+    },
+    "The Trigger is not exposing its pairing identity. Put it in pairing mode and try again." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Trigger stellt seine Kopplungsidentität nicht bereit. Versetze ihn in den Kopplungsmodus und versuche es erneut."
+          }
+        }
+      }
+    },
+    "Trigger paired" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trigger gekoppelt"
+          }
+        }
+      }
+    },
+    "Type" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ"
+          }
+        }
+      }
+    },
+    "Unavailable" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht verfügbar"
+          }
+        }
+      }
+    },
+    "Unknown error" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbekannter Fehler"
+          }
+        }
+      }
+    },
+    "Unpair trigger" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trigger entkoppeln"
+          }
+        }
+      }
+    },
+    "Use the 3X3 Web App to perform the update." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwende die 3X3 Web App, um das Update durchzuführen."
+          }
+        }
+      }
+    },
+    "Use this during installation when the partially visible second gear prevents the final gear from being inserted. Rotate it until the final gear fits." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwende diese Funktion bei der Montage, wenn der teilweise sichtbare zweite Gang das Einsetzen des letzten Gangs verhindert. Drehe ihn, bis der letzte Gang eingesetzt werden kann."
+          }
+        }
+      }
+    },
+    "Voltage" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spannung"
+          }
+        }
+      }
+    },
+    "Waiting for the Actuator to confirm the Trigger" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warten auf die Bestätigung des Triggers durch den Aktuator"
+          }
+        }
+      }
+    },
+    "about 30 seconds" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "etwa 30 Sekunden"
+          }
+        }
+      }
+    },
+    "about five seconds" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "etwa fünf Sekunden"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

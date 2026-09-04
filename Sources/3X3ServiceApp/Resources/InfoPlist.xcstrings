@@ -1,0 +1,23 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "NSBluetoothAlwaysUsageDescription" : {
+      "comment" : "Privacy description shown when the app requests Bluetooth access.",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stellt eine Verbindung zu 3X3-Antriebs- und Trigger-Geräten her, um sie zu konfigurieren und zu diagnostizieren."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connect to 3X3 drivetrain and trigger devices for configuration and diagnostics."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
