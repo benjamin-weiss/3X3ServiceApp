@@ -22,6 +22,7 @@ public enum BluetoothUUIDs {
 
     public enum StandardCharacteristic {
         public static let batteryLevel = "2A19"
+        public static let modelNumber = "2A24"
         public static let serialNumber = "2A25"
         public static let firmwareRevision = "2A26"
         public static let softwareRevision = "2A28"
